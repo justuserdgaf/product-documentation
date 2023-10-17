@@ -28,7 +28,7 @@ In the article, you’ll learn how to manage users in the Control Panel. You can
 
 The following pop-up will appear, where you will perform the remaining steps. 
 
-<img src="https://assets.gcore.pro/docs/account-settings/users/add-edit-or-delete-an-invited-user/invite-users-20-v2.png" alt="A page where you specify interface language, mail, roles">
+
 
 3\. Enter the name of the invited user. The name can be anything; we recommend using first name and surname for ease of use. It will be displayed in the control panel.
 
